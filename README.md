@@ -4,4 +4,6 @@ Built on Unity 2018.6f with the latest Steam VR service & runtimes. Accurate as 
 Worked on by Zhen Wei, Chuan Hao and Haikel
 
 Hardware 
+
+
 <img src="https://i.imgur.com/tWndNBP.jpg">
